@@ -33,9 +33,6 @@ But here, I’m more like a **creator exploring the world of code** 🚀
 
 ## 📊 GitHub Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Supakon33&show_icons=true&theme=radical" width="450"/>
-
-<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supakon33&layout=compact&theme=tokyonight" width="350"/>
 
