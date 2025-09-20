@@ -10,7 +10,7 @@ But here, I’m more like a **creator exploring the world of code** 🚀
 ## 🔥 About Me  
 
 🎓 Studying Computer Engineering (Year 2) <br/>
-📚 Currently learning **HTML, CSS, JavaScript, Node.js, Java, and Python**  
+📚 Currently learning **HTML, CSS, JavaScript, Java
 🔧 Building side projects to sharpen my skills  
 🌟 Passionate about technology and problem-solving  
 
@@ -20,7 +20,6 @@ But here, I’m more like a **creator exploring the world of code** 🚀
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&labelColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=F7DF1E)
 
