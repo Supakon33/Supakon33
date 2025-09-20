@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">👋 Hi, I'm Supakon</h1>
+<h1 align="center">👋 Hi, I'm Bvs </h1>
 
 I’m a **2nd Year Computer Engineering Student** 💻  
 But here, I’m more like a **creator exploring the world of code** 🚀  
